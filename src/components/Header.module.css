@@ -87,12 +87,14 @@
 
 .button {
     width: 80%;
-    background-color: rgba(175, 248, 221, 0.575);
+    background-color: rgb(53, 44, 176);
     height: 30px;
     border: 0;
+    transition: 0.5s;
 }
 .button:hover {
     background-color: rgb(142, 245, 245);
     color: black;
     box-shadow: 0 0 0 2px;
+    transition: 0.5s;
 }
